@@ -13,3 +13,5 @@ square_ array(arr)
 #=> [1, 2, 3, 4, 5]
 
 #baset.each do |apple|
+
+end
