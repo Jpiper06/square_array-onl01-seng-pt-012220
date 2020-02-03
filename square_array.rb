@@ -12,6 +12,3 @@ square_ array(arr)
 # # prints: -9 -8 -7 -6 -5 
 #=> [1, 2, 3, 4, 5]
 
-#baset.each do |apple|
-
-end
