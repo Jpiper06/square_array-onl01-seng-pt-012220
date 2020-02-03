@@ -6,4 +6,6 @@ def square_array(array)
 
 end
 
-arr =
+arr = [1, 2, 3, 4, 5]
+square_ array(arr)
+#//
